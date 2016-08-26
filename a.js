@@ -1,2 +1,2 @@
-var a = 1;
+var a = "newstr";
 var b = 2;
